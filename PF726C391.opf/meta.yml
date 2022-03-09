@@ -1,0 +1,17 @@
+id: PF726C391
+initial_creation_type: input
+source_metadata:
+  title: Mitākṣarā, a commentary on the Yājñavalkya-dharmaśāstra
+  language:
+  - English
+  - Sanskrit
+  term: Sanskrit -- Śāstra -- Dharma -- Nibandha
+  editing, formatting, and color coding: Patrick Olivelle
+  data entry (1.1-25): Donald R. Davis, Jr.
+  data entry (1.26-2.80): Amy Hyne-Sutherland
+  data entry (2.80-3.334): Nikola Rajić
+  contribution to GRETIL and SARIT: Donald R. Davis, Jr.
+  initial normalization and conversion to TEI-conformant markup: Maximilian Mehner
+  header optimization: Dominik Wujastyk
+created_at: '2022-03-09T15:29:54.733212'
+last_modified_at: '2022-03-09T15:29:54.733234'
